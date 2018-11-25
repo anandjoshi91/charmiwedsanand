@@ -1,0 +1,25 @@
+url: anandjoshi.me
+baseurl: /anandwedscharmi
+
+# Site settings
+title: AnandWedsCharmi
+description: "Anand Weds Charmi"
+
+
+# Family members
+people:
+- name: Hasmukh & Shobhana Joshi
+  pic: 1
+  relation: Anand's Parents
+
+- name: Manoj & Pooja Katira
+  pic: 2
+  relation: Charmi's Parents
+
+- name: Parth Katira
+  pic: 3
+  relation: Charmi's Brother
+
+# Build settings
+markdown: kramdown
+permalink: pretty
