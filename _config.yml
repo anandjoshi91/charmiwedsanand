@@ -7,7 +7,9 @@ description: "Charmi Weds Anand"
 
 
 # Family members
+
 people:
+
 - name: Hasmukh & Shobhana Joshi
   pic: 1
   relation: Anand's Parents
@@ -16,9 +18,41 @@ people:
   pic: 2
   relation: Charmi's Parents
 
+- name: Beena & Siddharth Thanki
+  pic: 4
+  relation: Anand's younger sister & family
+
 - name: Parth Katira
   pic: 3
   relation: Charmi's Brother
+
+- name: Anita & Jigar Thanki
+  pic: 5
+  relation: Anand's elder sister & family
+
+- name: Sanjay & Nehal Thanki
+  pic: 6
+  relation: Anand's Nani & Family
+
+- name: Prabhashankar & Damu Thanki
+  pic: 7
+  relation: Anand's Nana & Nani
+
+- name: Late Hemraj & Jaya Ramani
+  pic: 8
+  relation: Charmi's Nana & Nani
+
+- name: Late Khimji & Dhanlaxmi Katira
+  pic: 9
+  relation: Charmi's Dada & Dadi
+
+- name: Late Velji & Ratan Joshi
+  pic: 10
+  relation: Anand's Dada & Dadi
+
+- name: Late Devsmita Joshi
+  pic: 11
+  relation: Anand's Mom
 
 # Build settings
 markdown: kramdown
